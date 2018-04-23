@@ -1,3 +1,2 @@
 # drumkit-js
-Javascript Drum Kit
-Created following Wes Bos #Javascript30 program.
+Javascript drum kit, created following Wes Bos' #Javascript30 program.
